@@ -47,10 +47,9 @@ If a participant has difficulty figuring out where to begin, the tester may demo
 
 Out of the 7 participants, all found the redesign to be an improvement upon the existing design.
 
-<!-- nav -->
-[← Too Many Clicks](too-many-clicks.md)  ·  [All case studies](/)  ·  [Advanced Search →](advanced-search.md)
-
-
 The one piece of feedback we heard from all of the participants was that they didn't understand the difference between the labels *series* and *product families*: most thought they were the same thing.
 
 We recommend a further discussion around these labels, and moving forward with the redesign.
+
+<!-- nav -->
+[← Too Many Clicks](too-many-clicks.md)  ·  [All case studies](/)  ·  [Advanced Search →](advanced-search.md)
