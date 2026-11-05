@@ -57,3 +57,6 @@ For each participant of the usability test, the tester will show them the search
 Out of the 8 participants, only 3 were comfortable using the advanced search feature. The 3 who used it found it useful, but noted that some parts they expected to see were missing — most likely due to incomplete data.
 
 While the tool would help some of our customers, the majority would overlook it as unnecessary. Therefore, we do not consider this a high-priority need at this time.
+
+<!-- nav -->
+[← Type Ahead Redesign](type-ahead-redesign.md)  ·  [All case studies](/)  ·  [Country Selector →](country-selector.md)
