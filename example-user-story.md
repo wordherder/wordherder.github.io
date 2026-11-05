@@ -48,3 +48,6 @@ Type the word *IBM* into the trade lab's search box.
 **Test Case 3 — stock symbol search** *(repeat with ETF and mutual fund ticker symbols)*  
 Type *NVDA* into the search box.  
 *Expected result:* NVDA should be the **first** stock showing in the drop-down.
+
+<!-- nav -->
+[← Cross-Site Comparison](cross-site-comparison.md)  ·  [All case studies](/)  ·  [Too Many Clicks →](too-many-clicks.md)
