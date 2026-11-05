@@ -61,3 +61,6 @@ A compromise was achieved by creating a component in Adobe Experience Manager th
 | No-results searches | **12% → 0.68%** |
 | Click-through rate to content | **54%** |
 | Decline in negative feedback | **87%** |
+
+<!-- nav -->
+[← Migration to Power BI](migration-to-power-bi.md)  ·  [All case studies](/)  ·  [Cross-Site Search Comparison →](cross-site-search-comparison.md)
