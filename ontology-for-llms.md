@@ -53,3 +53,6 @@ The first round of tests found that the recall score is still too high. Precisio
 | mean_recall | 0.45 | 0.32 | −0.13 | −28.89% |
 
 ![Table of evaluation results comparing standard and dropped runs](images/precision-recall-results.png)
+
+<!-- nav -->
+[All case studies](/)  ·  [Migration to Power BI →](migration-to-power-bi.md)
