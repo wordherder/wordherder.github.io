@@ -40,3 +40,6 @@ Add the part numbers to the auto-suggest drop-down of the search box.
 Until December 2018, only dictionary words were used in the type-ahead. By adding the part numbers and linking the click on the part number to the details page with the buy button, **the number of clicks was reduced to 1**.
 
 ![Shortest path: begin typing in the search box, select the suggested part number, and arrive at the product details page with variants filtered and Add to Cart available in a single click](images/click-path-shortest.png)
+
+<!-- nav -->
+[← Example User Story](example-user-story.md)  ·  [All case studies](/)  ·  [Type Ahead Redesign →](type-ahead-redesign.md)
