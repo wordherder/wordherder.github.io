@@ -64,3 +64,6 @@ Surveys/workshops, data lineage, and a KPI tree feed the wireframes. In parallel
 Working with a consulting agency may have cost the new team too much time. It may have been better to work with the initial group of people who had started the first report suite migration on their own, however haphazard it had been at the time. What the consulting agency achieved over four months was achieved by the "unofficial" team in a week. The amount of time the consulting agency took to ramp up and then actually do the project was underwhelming, and remarkably stifling to the new team created for the migration.
 
 Due to the setback, the newly formed team is having to speed up the report suites' migration timeline by doing a lift-and-shift and cutting back the optimization piece of the project.
+
+<!-- nav -->
+[← Ontology for LLMs](ontology-for-llms.md)  ·  [All case studies](/)  ·  [Migration to New Search →](migration-to-new-search.md)
