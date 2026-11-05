@@ -33,3 +33,6 @@ The country control moves from the footer into the global header, beside Sign In
 ![Live TE.com header showing a welcome banner identifying the visitor's country, with Choose Another Site and Stay On This Site options, and the full country picker modal](images/country-selector-live.png)
 
 The shipped version greets the visitor with their detected country and two clear choices — *Choose Another Site* or *Stay On This Site* — backed by a searchable modal of popular locations and the full alphabetical country list.
+
+<!-- nav -->
+[← Advanced Search](advanced-search.md)  ·  [All case studies](/)
