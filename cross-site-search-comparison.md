@@ -73,3 +73,6 @@ Each dataset contained queries from the same timeframe, March to May 2022.
 3. Nearly all queries from Financial Advisory and Institutional would **not** yield results on Corporate, due to the high volume of fund, ETF, and security queries.
 4. Some Financial Advisory and Corporate queries are interchangeable.
 5. Nearly 80% of the queries on Corporate would work on Personal Investor, Financial Advisory, and Institutional — and would yield better results on those three sites than on Corporate.
+
+<!-- nav -->
+[← Migration to New Search](migration-to-search.md)  ·  [All case studies](/)  ·  [Example User Story →](example-user-story.md)
