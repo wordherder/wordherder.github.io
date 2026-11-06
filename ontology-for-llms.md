@@ -2,7 +2,7 @@
 title: Ontology for LLMs
 summary: Building a domain ontology and supporting taxonomies to narrow an LLM's worldview so it classifies video clips usefully instead of exhaustively.
 role: Ontologist
-period: 2025 – present
+period: 2025 – 2026
 tags: [ontology, taxonomy, knowledge-graph, llm, evaluation, rdf-skos]
 ---
 
@@ -10,7 +10,7 @@ tags: [ontology, taxonomy, knowledge-graph, llm, evaluation, rdf-skos]
 
 - **Role** — Ontologist
 - **Stakeholders** — VP of AI & Data Science
-- **Team** — Data scientists, developers
+- **Team** — Data scientists, Developers
 
 **Overview:** The purpose of building an ontology with supporting taxonomies for a large language model is to assist the LLM in its work in recognizing activities, interactions, affects, objects, and states of change in reality television shows.
 
