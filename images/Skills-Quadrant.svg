@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="759px" height="647px" viewBox="0 0 759 647" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Quadrant</title>
+    <g id="My-Resume" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-01" transform="translate(-28, -311)">
+            <g id="Quadrant" transform="translate(31, 311)">
+                <text id="Selenium" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="206" y="366">Selenium</tspan>
+                </text>
+                <text id="Cypress" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="206" y="384">Cypress</tspan>
+                </text>
+                <text id="DBT" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="294" y="401">DBT</tspan>
+                </text>
+                <path d="M755,646 L-1.99999963,646 L-1.99999963,1.00000012 L755,1.00000012 Z" id="Rectangle" stroke="#3B3C4A" stroke-width="2"></path>
+                <text id="DAX" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="326" y="402">DAX</tspan>
+                </text>
+                <text id="Java" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="339" y="427">Java</tspan>
+                </text>
+                <text id="MS-Power-Automated" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="492" y="324">MS Power Automate</tspan>
+                </text>
+                <text id="Lucene" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="528" y="366">Lucene</tspan>
+                </text>
+                <text id="Solr" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="528" y="346">Solr</tspan>
+                </text>
+                <text id="Web-Design" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="631" y="362">Web Design</tspan>
+                </text>
+                <text id="CSS" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="438" y="334">CSS</tspan>
+                </text>
+                <text id="Salesfore" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="310" y="299">Sales Force</tspan>
+                </text>
+                <text id="Zeplin" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="332" y="222">Zeplin</tspan>
+                </text>
+                <text id="Azure-DevOps" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="492" y="300">Azure DevOps</tspan>
+                </text>
+                <text id="Service-Now" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="589" y="301">Service Now</tspan>
+                </text>
+                <text id="Power-BI" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="528" y="205">Power BI</tspan>
+                </text>
+                <text id="SketchApp" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="700" y="101">SketchApp</tspan>
+                </text>
+                <text id="Balsamiq" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="584" y="207">Balsamiq</tspan>
+                </text>
+                <text id="Postman" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="405" y="256">Postman</tspan>
+                </text>
+                <text id="Tableau" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="497" y="185">Tableau</tspan>
+                </text>
+                <text id="Tealeaf" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="563" y="220">Tealeaf</tspan>
+                </text>
+                <text id="HP-ALM" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="493" y="221">HP ALM</tspan>
+                </text>
+                <text id="Figma" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="592" y="101">Figma</tspan>
+                </text>
+                <text id="IRAC-Analysis" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="442" y="114">IRAC Analysis</tspan>
+                </text>
+                <text id="Search" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="623" y="44">Search</tspan>
+                </text>
+                <text id="Mural" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="626" y="57">Mural</tspan>
+                </text>
+                <text id="Github" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="548" y="183">Github</tspan>
+                </text>
+                <text id="Toad-for-SQL" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="478" y="244">Toad for SQL</tspan>
+                </text>
+                <text id="Visio" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="595" y="114">Visio</tspan>
+                </text>
+                <text id="NLP" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="648" y="153">NLP</tspan>
+                </text>
+                <text id="MS-Office-365" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="685" y="126">MS Office 365</tspan>
+                </text>
+                <text id="Adobe-Analytics" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="559" y="70">Adobe Analytics</tspan>
+                </text>
+                <text id="VOC-Feedback" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="678" y="49">VOC Feedback</tspan>
+                </text>
+                <text id="Knowledge-Graphs" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="660" y="72">Knowledge Graphs</tspan>
+                </text>
+                <text id="Gap-Analysis" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="555" y="44">Gap Analysis</tspan>
+                </text>
+                <text id="Benchmark-Analysis" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="525" y="56">Benchmark Analysis</tspan>
+                </text>
+                <text id="MS-Entra" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="430" y="192">MS Entra</tspan>
+                </text>
+                <text id="Python" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="432" y="212">Python</tspan>
+                </text>
+                <text id="RegEx" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="606" y="220">RegEx</tspan>
+                </text>
+                <text id="Jira" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="704" y="12">Jira</tspan>
+                </text>
+                <text id="AWS" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="431" y="228">AWS</tspan>
+                </text>
+                <text id="Athena" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="431" y="244">Athena</tspan>
+                </text>
+                <text id="ETL" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="518" y="117">ETL</tspan>
+                </text>
+                <text id="Artificial-Intelligence" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="565" y="241">Artificial Intelligence</tspan>
+                </text>
+                <text id="Stakeholder-Workshops" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="640" y="184">Stakeholder Workshops</tspan>
+                </text>
+                <text id="SAFe" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="544" y="118">SAFe</tspan>
+                </text>
+                <text id="SQL" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="580" y="145">SQL</tspan>
+                </text>
+                <text id="SPARQL" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="463" y="284">SPARQL</tspan>
+                </text>
+                <text id="Agile" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="727" y="12">Agile</tspan>
+                </text>
+                <text id="Google-Analytics" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="387" y="143">Google Analytics</tspan>
+                </text>
+                <text id="Survey-Studies" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="636" y="86">Survey Studies</tspan>
+                </text>
+                <text id="Usability-Studies" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="603" y="138">Usability Studies</tspan>
+                </text>
+                <text id="A/B-Testing" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="694" y="113">A/B Testing</tspan>
+                </text>
+                <text id="Design-Thinking" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="541" y="25">Design Thinking</tspan>
+                </text>
+                <text id="Gemini" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="609" y="175">Gemini</tspan>
+                </text>
+                <text id="Claude" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="609" y="163">Claude</tspan>
+                </text>
+                <text id="Hybris" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="511" y="152">Hybris</tspan>
+                </text>
+                <text id="Data-Analysis" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="559" y="86">Data Analysis</tspan>
+                </text>
+                <text id="QA/UAT" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="600" y="14">QA/UAT</tspan>
+                </text>
+                <text id="Machine-Learning" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="595" y="127">Machine Learning</tspan>
+                </text>
+                <text id="APIs" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="663" y="114">APIs</tspan>
+                </text>
+                <text id="Confluence" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="646" y="12">Confluence</tspan>
+                </text>
+                <text id="JSON" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="631" y="115">JSON</tspan>
+                </text>
+                <text id="RDF/SKOS" transform="translate(669, 91.5) rotate(-1) translate(-669, -91.5)" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="642" y="96">RDF/SKOS</tspan>
+                </text>
+                <text id="R-Programming" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="405" y="299">R Programming</tspan>
+                </text>
+                <text id="Databricks" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="404" y="287">Databricks</tspan>
+                </text>
+                <text id="Tortoise-SVN" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="404" y="270">Tortoise SVN</tspan>
+                </text>
+                <text id="Ontology" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="709" y="85">Ontology</tspan>
+                </text>
+                <text id="Taxonomy" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="704" y="60">Taxonomy</tspan>
+                </text>
+                <text id="Adobe-Experience-Platform" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="387" y="167">Adobe Experience Platform</tspan>
+                </text>
+                <text id="Backlog-Refinement" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="655" y="36">Backlog Refinement</tspan>
+                </text>
+                <text id="Agentic-AI" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="701" y="134">Agentic AI</tspan>
+                </text>
+                <text id="Coveo" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="555" y="159">Coveo</tspan>
+                </text>
+                <text id="Endeca" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="534" y="138">Endeca</tspan>
+                </text>
+                <text id="Chatbots" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="577" y="282">Chatbots</tspan>
+                </text>
+                <text id="LLMs" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="609" y="152">LLMs</tspan>
+                </text>
+                <text id="Research" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#4039CE">
+                    <tspan x="657" y="60">Research</tspan>
+                </text>
+                <text id="Notepad++" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" fill="#3B3C4A">
+                    <tspan x="698" y="148">Notepad++</tspan>
+                </text>
+                <g id="Frame" transform="translate(4, 7)">
+                    <line x1="374.5" y1="0.850404313" x2="374.5" y2="630.149596" id="Vertical-Line" stroke="#3B3C4A" stroke-width="2" stroke-linecap="square"></line>
+                    <line x1="1.74849699" y1="301.5" x2="747.251503" y2="301.5" id="Horizontal-Line" stroke="#3B3C4A" stroke-width="2" stroke-linecap="square"></line>
+                    <text id="High-Scholarship" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="14" font-weight="300" fill="#C12EE6">
+                        <tspan x="378" y="15">High Scholarship</tspan>
+                    </text>
+                    <text id="High-Application" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="14" font-weight="300" fill="#C12EE6">
+                        <tspan x="648" y="318">High Application</tspan>
+                    </text>
+                    <text id="Low-Application" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="14" font-weight="300" fill="#C12EE6">
+                        <tspan x="2" y="318">Low Application</tspan>
+                    </text>
+                    <text id="Low-Scholarship" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="14" font-weight="300" fill="#C12EE6">
+                        <tspan x="378" y="630">Low Scholarship</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
