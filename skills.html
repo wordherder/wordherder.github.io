@@ -1,0 +1,370 @@
+---
+layout: default
+title: Key Skills
+description: Areas of expertise in ontology, taxonomy, search relevance, and product ownership.
+---
+
+<style>
+  /* ---- Skills page: scoped styles. Inherits type and color from the Minimal theme. ---- */
+
+  .skills-intro {
+    margin: 0 0 28px;
+  }
+
+  .skill-grid {
+    display: grid;
+    /* One column in the theme's 500px content area; becomes two if the
+       column is ever widened. No change needed either way. */
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 18px;
+    margin: 0 0 40px;
+  }
+
+  .skill-card {
+    border: 1px solid #e5e5e5;
+    border-left: 3px solid #267CB9;
+    border-radius: 3px;
+    padding: 16px 18px 14px;
+    background: #fff;
+  }
+
+  .skill-card h3 {
+    margin: 0 0 8px;
+    font-size: 16px;
+    color: #222;
+  }
+
+  /* The one-line claim a skim-reader will actually read. */
+  .skill-card .claim {
+    margin: 0 0 10px;
+    color: #393939;
+    font-weight: 700;
+  }
+
+  .skill-card p {
+    margin: 0 0 10px;
+  }
+
+  .skill-card .evidence {
+    margin: 12px 0 0;
+    padding-top: 10px;
+    border-top: 1px solid #f0f0f0;
+    font-size: 13px;
+  }
+
+  .skill-card .evidence strong {
+    color: #494949;
+    font-weight: 600;
+  }
+
+  /* ---- Quadrant ---- */
+
+  .quadrant {
+    margin: 0 0 20px;
+  }
+
+  .quadrant img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+  }
+
+  .quadrant figcaption {
+    margin-top: 10px;
+    font-size: 13px;
+  }
+
+  .quadrant-fallback {
+    margin: 16px 0 0;
+    font-size: 13px;
+  }
+
+  .quadrant-fallback summary {
+    cursor: pointer;
+    color: #267CB9;
+    font-weight: 600;
+  }
+
+  .quadrant-fallback h4 {
+    margin: 16px 0 6px;
+    font-size: 14px;
+  }
+
+  .quadrant-fallback ul {
+    margin: 0 0 10px;
+    padding-left: 20px;
+  }
+
+  @media (max-width: 480px) {
+    .skill-card { padding: 14px 15px 12px; }
+  }
+</style>
+
+<!--
+  NOTE: every paragraph below is a DRAFT written from the resume.
+  The facts and figures are yours; the sentences are not. Rewrite
+  freely — the point is to give you something to argue with.
+-->
+
+<h1>Key Skills</h1>
+
+<p class="skills-intro">
+  These six areas are the same job done in different buildings: making a
+  large pile of things findable by the one person who needs one of them.
+  I trained as a librarian, which mostly means I was taught that the
+  catalog exists for the reader and not for the cataloger. Each box below
+  links to the case study that shows the work instead of describing it.
+</p>
+
+<div class="skill-grid">
+
+  <!-- ============ 1 ============ -->
+  <div class="skill-card">
+    <h3>Ontology &amp; Knowledge Engineering</h3>
+    <p class="claim">
+      The hardest part of building an ontology is deciding what not to
+      model.
+    </p>
+    <p>
+      I am currently building a formal OWL ontology at NBCUniversal that
+      gives a language model a bounded world to classify against: nine
+      nodes covering activities, affects, characters, countries,
+      interactions, objects, story elements, travel, and video, with
+      mostly transitive relationships among them. The temptation on a
+      project like this is to model the whole world. I didn't. The goal
+      was to describe only the world that exists inside a particular set
+      of reality television shows, which is a far smaller and far more
+      useful thing to own. I work in Protégé and TopQuadrant, write in
+      RDF, OWL, and SKOS, and query with SPARQL. I also spent five years
+      at Yellowbook writing the requirements, test cases, and user manual
+      for an in-house ontology management system, so I have seen this
+      work from the maintenance side as well as the modeling side.
+    </p>
+    <p class="evidence">
+      <strong>See:</strong>
+      <a href="{{ '/ontology-for-llms.html' | relative_url }}">Ontology for LLMs</a>
+    </p>
+  </div>
+
+  <!-- ============ 2 ============ -->
+  <div class="skill-card">
+    <h3>Taxonomy &amp; Controlled Vocabulary</h3>
+    <p class="claim">
+      A controlled vocabulary is only as good as the language real people
+      actually use.
+    </p>
+    <p>
+      Every node in the NBCUniversal ontology has a taxonomy underneath
+      it, because an ontology tells a model how things relate and a
+      taxonomy tells it what to call them. I build those vocabularies
+      from evidence rather than from a whiteboard. When I compared search
+      behavior across four Vanguard properties, I used the topic set
+      derived from the largest dataset as the controlled vocabulary for
+      all four rather than inventing one. Before that I managed the
+      subject headings and keyword taxonomy at Yellowbook, and documented
+      the search requirements for STIBO Step at Ferguson. The two ways I
+      have watched a taxonomy fail are over-granularity and aspiration:
+      terms so fine that nobody can choose between them, and terms that
+      describe the content someone hopes to have rather than the content
+      that exists.
+    </p>
+    <p class="evidence">
+      <strong>See:</strong>
+      <a href="{{ '/ontology-for-llms.html' | relative_url }}">Ontology for LLMs</a>,
+      <a href="{{ '/cross-site-search-comparison.html' | relative_url }}">Cross-Site Search Comparison</a>
+    </p>
+  </div>
+
+  <!-- ============ 3 ============ -->
+  <div class="skill-card">
+    <h3>Search Relevance &amp; Findability</h3>
+    <p class="claim">
+      Ten years on a single question: why didn't they find the thing that
+      was there the whole time?
+    </p>
+    <p>
+      At Vanguard I replaced Autonomy with Coveo on the Personal Investor
+      search page and took no-results searches from nearly 12% down to
+      0.68%, raised search usage from under 1% of site traffic to 5%, and
+      cut negative survey feedback by 87%. At Ferguson I reduced
+      search-to-product clicks three to one and dropped no-results
+      searches by 78%. At TE Connectivity I put part numbers into the
+      autosuggest, which collapsed the shortest path to a buyable product
+      from three clicks to one. The part that transfers between jobs is
+      not the platform but the diagnosis: working out whether a bad
+      search is the engine's fault, the content's fault, or a mismatch
+      between how the index was built and how the customer thinks.
+    </p>
+    <p class="evidence">
+      <strong>See:</strong>
+      <a href="{{ '/migration-to-new-search.html' | relative_url }}">Migration to New Search</a>,
+      <a href="{{ '/too-many-clicks.html' | relative_url }}">Too Many Clicks</a>,
+      <a href="{{ '/type-ahead-redesign.html' | relative_url }}">Type Ahead Redesign</a>
+    </p>
+  </div>
+
+  <!-- ============ 4 ============ -->
+  <div class="skill-card">
+    <h3>Query Analysis &amp; Data</h3>
+    <p class="claim">
+      Query logs are the largest body of unprompted user testimony a
+      company owns, and almost nobody reads them.
+    </p>
+    <p>
+      For the Vanguard cross-site study I hand-tagged 42,765 queries
+      across four properties, 59% of everything submitted in the window,
+      because the organization held a widely shared belief that its
+      search complaints came from customers landing on the wrong site.
+      The data said otherwise: nearly 80% of the queries submitted on
+      Corporate would have returned better results on the other three
+      properties. The customer was not lost. The content was. At TE I ran
+      regular expressions across the top million queries in a 90-day
+      window to find customers typing Boolean operators into a single
+      search box, which turned out to be under 5% of users but a
+      consistent and identifiable group worth building for. I work in
+      SQL, SPARQL, Python, regular expressions, R, DBT, and Athena, with
+      Adobe and Google Analytics for the behavioral side.
+    </p>
+    <p class="evidence">
+      <strong>See:</strong>
+      <a href="{{ '/cross-site-search-comparison.html' | relative_url }}">Cross-Site Search Comparison</a>,
+      <a href="{{ '/advanced-search.html' | relative_url }}">Advanced Search</a>
+    </p>
+  </div>
+
+  <!-- ============ 5 ============ -->
+  <div class="skill-card">
+    <h3>Requirements &amp; Product Ownership</h3>
+    <p class="claim">
+      I think in flowcharts, which is a useful habit when someone hands
+      you a complaint and asks for a feature.
+    </p>
+    <p>
+      I have written business and functional requirements, use cases,
+      acceptance criteria, test cases, and user manuals at six companies,
+      including more than 2,000 Jira stories for the Vanguard public site
+      search team between 2021 and 2023. At Vanguard I ran three
+      concurrent migrations in fifteen months — survey platform, content
+      platform, and search engine — and oversaw the move of search
+      servlets to APIs on ECS and then on to Lambda. At Brenntag I
+      onboarded a brand-new team in Agile while migrating hundreds of
+      reports off a platform whose contract was expiring, which is mostly
+      a story about managing scope against a date that will not move. I
+      am a Certified Scrum Product Owner and SAFe certified.
+    </p>
+    <p class="evidence">
+      <strong>See:</strong>
+      <a href="{{ '/example-user-story.html' | relative_url }}">Example User Story</a>,
+      <a href="{{ '/migration-to-power-bi.html' | relative_url }}">Migration to Power BI</a>
+    </p>
+  </div>
+
+  <!-- ============ 6 ============ -->
+  <div class="skill-card">
+    <h3>LLM Evaluation &amp; Prompt Engineering</h3>
+    <p class="claim">
+      A model that sounds right and a model that is right are different
+      things, and only one of them is measurable.
+    </p>
+    <p>
+      The current generation of large language models are token
+      predictors trained on an enormous quantity of data, not reasoning
+      engines, and treating them accordingly gets better results than
+      treating them as oracles. My ontology work at NBCUniversal is
+      scored on precision and recall against the model's classification
+      of video clips. The first round came back with decent precision and
+      recall that was still far too high, so the recommendation was to
+      tighten the taxonomies rather than to keep rewriting the prompt. I
+      engineer the prompts the model uses to assemble clip groups for
+      clipblock definitions, and I use models to write the Python and VBA
+      that handles my own repetitive work. I completed the Agentic AI
+      bootcamp at Data Science Dojo in 2025.
+    </p>
+    <p class="evidence">
+      <strong>See:</strong>
+      <a href="{{ '/ontology-for-llms.html' | relative_url }}">Ontology for LLMs</a>
+    </p>
+  </div>
+
+</div>
+
+<hr>
+
+<h2>The full inventory</h2>
+
+<p>
+  Everything I have worked with, plotted along two axes rather than
+  flattened into a list: how deeply I know it, and how much I have
+  actually used it. Some of it I learned in graduate school, most of it
+  I learned on the job or at home, and nearly all of it I can pick back
+  up with little retraining.
+</p>
+
+<figure class="quadrant">
+  <a href="{{ '/assets/img/skills-quadrant.svg' | relative_url }}">
+    <img src="{{ '/assets/img/skills-quadrant.svg' | relative_url }}"
+         alt="A four-quadrant chart plotting 77 tools and methods on two axes:
+              scholarship, or depth of knowledge, running vertically, and
+              application, or hands-on use, running horizontally. Every label
+              is listed by quadrant in the text version below.">
+  </a>
+  <figcaption>
+    The labels are set at 11px, so they shrink to around 7px at this width —
+    <a href="{{ '/assets/img/skills-quadrant.svg' | relative_url }}">open it full
+    size</a> to read them, or use the list below.
+  </figcaption>
+</figure>
+
+<details class="quadrant-fallback">
+  <summary>Read the quadrant as a list</summary>
+
+  <!-- Buckets derived from the SVG label coordinates against the axis lines
+       at x=378.5 and y=308.5. Four labels sit within 10px of an axis and
+       were judgment calls: Azure DevOps, Service Now, R Programming (just
+       above the horizontal) and Sales Force (just above it, left side).
+       Move any of them if the chart reads differently to you. -->
+
+  <h4>High scholarship, high application (65)</h4>
+  <ul>
+    <li>A/B Testing, Adobe Analytics, Adobe Experience Platform, Agentic AI,
+      Agile, APIs, Artificial Intelligence, Athena, AWS, Azure DevOps</li>
+    <li>Backlog Refinement, Balsamiq, Benchmark Analysis, Chatbots, Claude,
+      Confluence, Coveo, Data Analysis, Databricks, Design Thinking</li>
+    <li>Endeca, ETL, Figma, Gap Analysis, Gemini, Github, Google Analytics,
+      HP ALM, Hybris, IRAC Analysis</li>
+    <li>Jira, JSON, Knowledge Graphs, LLMs, Machine Learning, MS Entra,
+      MS Office 365, Mural, NLP, Notepad++</li>
+    <li>Ontology, Postman, Power BI, Python, QA/UAT, R Programming, RDF/SKOS,
+      RegEx, Research, SAFe</li>
+    <li>Search, Service Now, SketchApp, SPARQL, SQL, Stakeholder Workshops,
+      Survey Studies, Tableau, Taxonomy, Tealeaf</li>
+    <li>Toad for SQL, Tortoise SVN, Usability Studies, Visio, VOC Feedback</li>
+  </ul>
+
+  <h4>High scholarship, low application (2)</h4>
+  <ul>
+    <li>Sales Force, Zeplin</li>
+  </ul>
+
+  <h4>Low scholarship, high application (5)</h4>
+  <ul>
+    <li>CSS, Lucene, MS Power Automate, Solr, Web Design</li>
+  </ul>
+
+  <h4>Low scholarship, low application (5)</h4>
+  <ul>
+    <li>Cypress, DAX, DBT, Java, Selenium</li>
+  </ul>
+</details>
+
+<hr>
+
+<p><a href="{{ '/' | relative_url }}">&larr; Back to case studies</a></p>
+
+<!--
+  All 77 skill labels are now a single colour (#3B3C4A, 10.87:1 against
+  white), so no meaning is carried by colour and the text list above is a
+  complete equivalent of the chart.
+-->
