@@ -12,7 +12,7 @@ Ten years of product ownership in search, taxonomy, and ontology — written up 
 
 | Case study | What it covers | When |
 |---|---|---|
-| **[Ontology for LLMs](studies/ontology-for-llms.md)** | A nine-node ontology plus supporting taxonomies, built to constrain an LLM's video-clip classification — with precision/recall results from the first test round | 2025 – present |
+| **[Ontology for LLMs](studies/ontology-for-llms.md)** | A nine-node ontology plus supporting taxonomies, built to constrain an LLM's video-clip classification — with precision/recall results from the first test round | 2025 – 2026 |
 | **[Migration to Power BI](studies/migration-to-power-bi.md)** | Hundreds of reports moved off Qlik Sense against a contract-expiry deadline, with a brand-new team trained in Agile along the way | 2024 – 2025 |
 | **[Migration to New Search](studies/migration-to-new-search.md)** | Three concurrent platform migrations on one page; onsite search traffic went from under 1% to 5%, zero-result searches from 12% to 0.68% | 2021 – 2022 |
 | **[Cross-Site Search Comparison](studies/cross-site-search-comparison.md)** | 42,765 queries hand-tagged against a shared controlled vocabulary to test a widely held assumption about why search felt broken | 2022 |
